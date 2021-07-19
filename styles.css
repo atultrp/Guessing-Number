@@ -1,0 +1,79 @@
+body {
+    background-color: #212121;
+}
+
+.container {
+    background-color: #323232;
+    margin: 30px 40px;
+    padding: 1% 10% 5%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Merienda', cursive;
+    text-shadow: 4px 0 #212121;
+    color: #EEEEEE;
+}
+
+.header-text {
+    margin: 30px;
+    font-size: 5rem;
+}
+
+.para-text {
+    font-size: 1.5rem;
+    color: #EEEEEE;
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    width: 50%;
+    border-radius: 70%;
+}
+
+h2 {
+    margin-top: 5%;
+    margin-bottom: 0%;
+    font-size: 2.5rem;
+    color: #EEEEEE;
+    font-family: 'Merienda', cursive;
+}
+
+.caption {
+    font-size: 1.2rem;
+    color: #EEEEEE;
+    font-family: 'Indie Flower', cursive;
+}
+
+#quantity {
+    padding: 15px 32px;
+    border-radius: 5px;
+    border: none;
+}
+
+#submit {
+    background-color: #4CAF50;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    margin-top: 15px;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+#submit:hover {
+    background-color: white;
+    color: #4CAF50;
+}
+
+footer {
+    margin-top: 5%;
+    font-size: 1rem;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
