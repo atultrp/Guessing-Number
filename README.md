@@ -22,7 +22,7 @@ Website link : [Guessing Number Game](https://atultrp.github.io/Guessing-Number/
 
 ## 📸️ Project Demo
 
-![Project Demo](https://user-images.githubusercontent.com/69186169/127378480-054884c1-1b29-4918-acb8-d4ff0c272321.mp4)
+https://user-images.githubusercontent.com/69186169/127380209-420ad19e-2c71-49f1-8d8b-496ae119ab5f.mp4
 
   
 ## ⚔️ Run Locally
