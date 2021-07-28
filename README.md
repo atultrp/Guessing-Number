@@ -1,9 +1,3 @@
-<!-- # Guessing-Number
-Guessing Number by using HTML, CSS and JavaScript.
-Git Clone https://atultrp.github.io/Guessing-Number/
-
-
-
 # ⚡️ Guessing Number Game ⚡️
 
 In this project you have to guess the number between 1-9, but you have only three chances. Note, if you wanna play again then just refresh your page. That is very cool game try it. 😎
@@ -26,19 +20,9 @@ Website link : [Guessing Number Game](https://atultrp.github.io/Guessing-Number/
 - Cross platform
 
 
-## 📸️ Screenshots
-<br />
+## 📸️ Project Demo
 
-### 🏠️ Home Page
-
-![Home-image](https://github.com/atultrp/Personal-site/blob/main/images/Personal-site-home-page.png)
-
-<br />
-
-### 🌀️ About Page
-
-![About-image](https://github.com/atultrp/Personal-site/blob/main/images/Personal-site-about-page.png?raw=true)
-<br />
+![Project Demo](https://user-images.githubusercontent.com/69186169/127378480-054884c1-1b29-4918-acb8-d4ff0c272321.mp4)
 
   
 ## ⚔️ Run Locally
@@ -46,7 +30,7 @@ Website link : [Guessing Number Game](https://atultrp.github.io/Guessing-Number/
 Clone the project
 
 ```bash
-  git clone https://github.com/your-username/Personal-site
+  git clone https://github.com/your-username/Guessing-Number
 ```
 
 Go to the project directory
@@ -98,4 +82,4 @@ If you have any feedback, please reach out to us at atul31815@gmail.com.
 ## 🗞️ License
 
 [MIT](https://choosealicense.com/licenses/mit/)
- -->
+
